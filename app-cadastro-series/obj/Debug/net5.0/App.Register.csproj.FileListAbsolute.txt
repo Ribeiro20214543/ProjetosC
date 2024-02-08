@@ -1,0 +1,16 @@
+/home/patrickfrr/Documentos/meus-projetos/App.Register/obj/Debug/net5.0/App.Register.csproj.AssemblyReference.cache
+/home/patrickfrr/Documentos/meus-projetos/App.Register/obj/Debug/net5.0/App.Register.GeneratedMSBuildEditorConfig.editorconfig
+/home/patrickfrr/Documentos/meus-projetos/App.Register/obj/Debug/net5.0/App.Register.AssemblyInfoInputs.cache
+/home/patrickfrr/Documentos/meus-projetos/App.Register/obj/Debug/net5.0/App.Register.AssemblyInfo.cs
+/home/patrickfrr/Documentos/meus-projetos/App.Register/obj/Debug/net5.0/App.Register.csproj.CoreCompileInputs.cache
+/home/patrickfrr/Documentos/meus-projetos/App.Register/bin/Debug/net5.0/App.Register
+/home/patrickfrr/Documentos/meus-projetos/App.Register/bin/Debug/net5.0/App.Register.deps.json
+/home/patrickfrr/Documentos/meus-projetos/App.Register/bin/Debug/net5.0/App.Register.runtimeconfig.json
+/home/patrickfrr/Documentos/meus-projetos/App.Register/bin/Debug/net5.0/App.Register.runtimeconfig.dev.json
+/home/patrickfrr/Documentos/meus-projetos/App.Register/bin/Debug/net5.0/App.Register.dll
+/home/patrickfrr/Documentos/meus-projetos/App.Register/bin/Debug/net5.0/ref/App.Register.dll
+/home/patrickfrr/Documentos/meus-projetos/App.Register/bin/Debug/net5.0/App.Register.pdb
+/home/patrickfrr/Documentos/meus-projetos/App.Register/obj/Debug/net5.0/App.Register.dll
+/home/patrickfrr/Documentos/meus-projetos/App.Register/obj/Debug/net5.0/ref/App.Register.dll
+/home/patrickfrr/Documentos/meus-projetos/App.Register/obj/Debug/net5.0/App.Register.pdb
+/home/patrickfrr/Documentos/meus-projetos/App.Register/obj/Debug/net5.0/App.Register.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/obj/Debug/netcoreapp3.1/App.Bank.csproj.AssemblyReference.cache
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/obj/Debug/netcoreapp3.1/App.Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/obj/Debug/netcoreapp3.1/App.Bank.AssemblyInfoInputs.cache
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/obj/Debug/netcoreapp3.1/App.Bank.AssemblyInfo.cs
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/obj/Debug/netcoreapp3.1/App.Bank.csproj.CoreCompileInputs.cache
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/bin/Debug/netcoreapp3.1/App.Bank
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/bin/Debug/netcoreapp3.1/App.Bank.deps.json
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/bin/Debug/netcoreapp3.1/App.Bank.runtimeconfig.json
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/bin/Debug/netcoreapp3.1/App.Bank.runtimeconfig.dev.json
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/bin/Debug/netcoreapp3.1/App.Bank.dll
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/bin/Debug/netcoreapp3.1/App.Bank.pdb
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/obj/Debug/netcoreapp3.1/App.Bank.dll
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/obj/Debug/netcoreapp3.1/App.Bank.pdb
+/home/patrickfrr/Documentos/meus-projetos/App.Bank/obj/Debug/netcoreapp3.1/App.Bank.genruntimeconfig.cache
